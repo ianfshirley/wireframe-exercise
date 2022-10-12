@@ -1,17 +1,10 @@
-# Code-201-Template
-Template for setting up projects
+# Wireframe Exercise
 
+# LAB - 08a
 
+Creating a wireframe from a provided spec from "Client"
 
-## Follow this template for the README files:
-
-# LAB - Number
-
-## Project Name
-
-I build an app with a direct and powerful purpose. It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app
-
-### Author: Student/Group Name
+### Author: Ian F. Shirley
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
